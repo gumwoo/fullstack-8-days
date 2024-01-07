@@ -24,7 +24,6 @@ html {
     line-height: 1.15;
 }
 
-```css
 /* 메인 배경 스타일 */
 .main-background {
     height: 600px;
@@ -36,7 +35,6 @@ html {
     position: relative;
 }
 
-```css
 /* 메인 타이틀 스타일 */
 .main-title {
     color: white;
@@ -45,7 +43,6 @@ html {
     text-align: center;
 }
 
-```css
 /* 메인 콘텐츠 스타일 */
 .main-content {
     color: white;
@@ -53,7 +50,6 @@ html {
     font-size: 20px;
 }
 
-```css
 /* 메인 버튼 스타일 */
 .main-button {
     display: block;
@@ -69,7 +65,6 @@ html {
     width: 75px;
 }
 
-```css
 /* 추가 박스 스타일 */
 .additional-box {
     background: #eee;
@@ -82,3 +77,4 @@ html {
     margin-right: auto;
     height: 180px;
     max-width: 600px;
+}
